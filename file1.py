@@ -4,11 +4,8 @@ for i in range(5):
     print(f"{i+1}: Go away!")
 
 print("Tubby chuckers")
-
 print("Boasters and toasters")
-
 print("Basters and tasters")
-
 print("These new spoons for eating with??!")
 
 for i in range(3):
@@ -23,3 +20,4 @@ for i in range(7):
             print("Oka-")
 
 print("Angeles")
+print("Pleased to meet you! #11")
