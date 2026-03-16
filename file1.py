@@ -6,3 +6,5 @@ for i in range(5):
 print("Tubby chuckers")
 
 print("Boasters and toasters")
+
+print("Basters and tasters")
