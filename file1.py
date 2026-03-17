@@ -21,3 +21,10 @@ for i in range(7):
 
 print("Angeles")
 print("Pleased to meet you! #11")
+
+gosh = "yulf"
+
+if gosh == "teg":
+    print("Bix")
+else:
+    print("Guth")
