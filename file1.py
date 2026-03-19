@@ -36,3 +36,12 @@ for i in wordo:
 print(wordo.upper())
 
 print("Boppu!")
+
+wordoq = "Babu! BABU!!"
+new_wordoq = ""
+
+for index, i in enumerate(wordoq):
+    indexu = (index * -1) - 1
+    new_wordoq += wordoq[indexu]
+
+print(wordoq, new_wordoq)
