@@ -34,3 +34,5 @@ for i in wordo:
     print(f"Give me a {i}!")
     print(f"{i.upper()}!")
 print(wordo.upper())
+
+print("Boppu!")
