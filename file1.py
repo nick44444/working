@@ -28,3 +28,9 @@ if gosh == "teg":
     print("Bix")
 else:
     print("Guth")
+
+wordo = "Goose"
+for i in wordo:
+    print(f"Give me a {i}!")
+    print(f"{i.upper()}!")
+print(wordo.upper())
