@@ -45,3 +45,6 @@ for index, i in enumerate(wordoq):
     new_wordoq += wordoq[indexu]
 
 print(wordoq, new_wordoq)
+
+print("Back from the Cotswolds!")
+
