@@ -49,7 +49,7 @@ print(wordoq, new_wordoq)
 print("Back from the Cotswolds!")
 
 for i in range(2):
-    i == 1:
+    if i == 1:
         print("Base price")
     else:
         print("Best price!")
