@@ -53,3 +53,7 @@ for i in range(2):
         print("Base price")
     else:
         print("Best price!")
+
+gases = ["Willow", "Taylor Swift"]
+for i in range(len(gases)):
+    print(f"Wob! {gases[i]}!")
