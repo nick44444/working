@@ -57,3 +57,5 @@ for i in range(2):
 gases = ["Willow", "Taylor Swift"]
 for i in range(len(gases)):
     print(f"Wob! {gases[i]}!")
+
+print("Sam Altman sucks")
