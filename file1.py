@@ -59,3 +59,9 @@ for i in range(len(gases)):
     print(f"Wob! {gases[i]}!")
 
 print("Sam Altman sucks")
+
+for i in range(5):
+    if i % 2 == 1:
+        print("All these other diddly features!")
+    else:
+        print("Just buy another company!")
