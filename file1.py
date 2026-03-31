@@ -72,3 +72,7 @@ for i in range(3):
     print("Learn to use these tools.")
 
 print("Plaggy")
+
+throp = "Brave"
+for i in throp:
+    print(i.upper())
