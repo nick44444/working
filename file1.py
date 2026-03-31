@@ -76,3 +76,7 @@ print("Plaggy")
 throp = "Brave"
 for i in throp:
     print(i.upper())
+
+deal = ["Simplest", "human", "errors"]
+boring = " ".join(deal)
+print(boring)
