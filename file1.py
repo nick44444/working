@@ -70,3 +70,5 @@ print("AI features are not that useful")
 
 for i in range(3):
     print("Learn to use these tools.")
+
+print("Plaggy")
