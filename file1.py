@@ -80,3 +80,6 @@ for i in throp:
 deal = ["Simplest", "human", "errors"]
 boring = " ".join(deal)
 print(boring)
+
+print("Claude Code sucks")
+
