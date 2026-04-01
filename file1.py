@@ -83,3 +83,8 @@ print(boring)
 
 print("Claude Code sucks")
 
+advice = ["Replace", "CEOs", "with", "AI"]
+advice2 = ""
+for i in range(len(advice)):
+    advice2 += advice[i] + " "
+print(advice2[:-1] + "!")
