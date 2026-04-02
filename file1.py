@@ -89,5 +89,8 @@ for i in range(len(advice)):
     advice2 += advice[i] + " "
 print(advice2[:-1] + "!")
 
-rhcp = []
-
+rhcp = ["Red", "Hot", "Chilli", "Peppers"]
+rhcp_str = ""
+for i in rhcp:
+    rhcp_str += i + " "
+print(rhcp_str[:-1] + "!")
