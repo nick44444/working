@@ -14,7 +14,7 @@ print("Never using those " + "".join(["S", "P", "O", "O", "N", "S"]) + "!")
 
 for i in range(7):
     if i > 0:
-        if i%3 == 0:
+        if i % 3 == 0:
             print("Oka-do, Oka-do, Oka-do,")
         else:
             print("Oka-")
@@ -94,3 +94,10 @@ rhcp_str = ""
 for i in rhcp:
     rhcp_str += i + " "
 print(rhcp_str[:-1] + "!")
+
+gd = ["y", "a", "d", " ", "n", "e", "e", "r", "g"]
+gd_str = ""
+for index, i in enumerate(gd):
+    gd_str += gd[(index + 1) * -1]
+gd_str = gd_str.title()
+print(gd_str)
