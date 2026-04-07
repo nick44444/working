@@ -101,3 +101,6 @@ for index, i in enumerate(gd):
     gd_str += gd[(index + 1) * -1]
 gd_str = gd_str.title()
 print(gd_str)
+
+print("Where am I?")
+
