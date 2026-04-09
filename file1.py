@@ -107,3 +107,4 @@ print("There I am!")
 
 for i in range(3):
     print("I hate Anthropic!")
+print("Misanthropic more like!")
