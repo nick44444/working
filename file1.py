@@ -104,3 +104,6 @@ print(gd_str)
 
 print("Where am I?")
 print("There I am!")
+
+for i in range(3):
+    print("I hate Anthropic!")
