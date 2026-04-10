@@ -108,3 +108,8 @@ print("There I am!")
 for i in range(3):
     print("I hate Anthropic!")
 print("Misanthropic more like!")
+
+for i in range(8):
+    if i == 2 or i == 7:
+        print("You Dozy Doreen!")
+
