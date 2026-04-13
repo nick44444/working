@@ -115,7 +115,7 @@ for i in range(8):
 
 print("T0bermoray!")
 
-print("To drib")
+print("To drib.")
 
 chess = "Goodo!"
 for i in chess:
