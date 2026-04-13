@@ -116,3 +116,7 @@ for i in range(8):
 print("T0bermoray!")
 
 print("To drib")
+
+chess = "Yahoo!"
+for i in chess:
+    print(f"{i} {i} captain!")
