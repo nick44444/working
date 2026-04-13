@@ -116,3 +116,7 @@ for i in range(8):
 print("T0bermoray!")
 
 print("To drib")
+
+chess = "Goodo!"
+for i in chess:
+    print(f"{i} is the secret to greatness.")
