@@ -120,3 +120,4 @@ print("To drib.")
 chess = "Goodo!"
 for i in chess:
     print(f"{i} is the secret to greatness.")
+print("2 decades in power")
