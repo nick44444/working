@@ -122,6 +122,9 @@ for i in chess:
     print(f"{i} is the secret to greatness.")
 
 print("2 decades in power")
+
 for i in range(2):
     print("Free and fair elections")
 print("Who gets firewood?")
+
+print("Bye bye Viktor Orban")
