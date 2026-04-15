@@ -128,3 +128,5 @@ for i in range(2):
 print("Who gets firewood?")
 
 print("Bye bye Viktor Orban")
+
+print("A plan based on a band.")
