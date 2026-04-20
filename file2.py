@@ -6,3 +6,5 @@ for i in range(4):
 print("Angry with the media.")
 
 print("Crocodile attack!")
+
+print("Hunky Dory!")
