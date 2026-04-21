@@ -9,7 +9,7 @@ print("Crocodile attack!")
 
 print("Hunky Dory!")
 
-print("Big ambeient thing yet.")
+print("Big ambient thing yet.")
 
 for i in range(4):
     print("This is what I gotta do!")
