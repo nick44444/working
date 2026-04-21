@@ -10,3 +10,6 @@ print("Crocodile attack!")
 print("Hunky Dory!")
 
 print("Big ambeient thing yet.")
+
+for i in range(4):
+    print("This is what I gotta do!")
