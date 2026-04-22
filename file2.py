@@ -13,3 +13,5 @@ print("Big ambient thing yet.")
 
 for i in range(4):
     print("This is what I gotta do!")
+
+print("Outpaces inflation")
