@@ -18,3 +18,5 @@ print("Outpaces inflation")
 
 for i in range(2):
     print("Gelber!")
+
+print("Let's learn some old blues songs.")
