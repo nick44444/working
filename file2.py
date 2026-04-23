@@ -20,3 +20,4 @@ for i in range(2):
     print("Gelber!")
 
 print("Let's learn some old blues songs.")
+print("Let's learn some old RHCP songs!")
