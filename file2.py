@@ -23,3 +23,9 @@ print("Let's learn some old blues songs.")
 print("Let's learn some old RHCP songs!")
 
 print("Funkatoon!")
+
+for i in range(3):
+    if i % 2 == 0:
+        print("Dinner at Brannigan's?!")
+    else:
+        print("Dinner at Miller & Carter!")
