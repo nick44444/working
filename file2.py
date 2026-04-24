@@ -21,3 +21,5 @@ for i in range(2):
 
 print("Let's learn some old blues songs.")
 print("Let's learn some old RHCP songs!")
+
+print("Funkatoon!")
