@@ -29,3 +29,5 @@ for i in range(3):
         print("Dinner at Brannigan's?!")
     else:
         print("Dinner at Miller & Carter!")
+
+print("Yep! These are barely real businesses.")
