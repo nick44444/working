@@ -31,3 +31,6 @@ for i in range(3):
         print("Dinner at Miller & Carter!")
 
 print("Yep! These are barely real businesses.")
+
+for i in range(2):
+    print("Interesting financial alchemy.")
