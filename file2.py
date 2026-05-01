@@ -42,5 +42,5 @@ peas = "PEAS"
 for i in peas:
     print(f"{i}!")
 print(f"Spells {peas}!")
-print(f"...and don't you forget it ({peas.lower()}).")
+print(f"...and don't you forget it (the {peas.lower()}).")
 
