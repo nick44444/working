@@ -37,3 +37,8 @@ for i in range(2):
 
 print("To pin and to pop.")
 print("To steal and to stop.")
+
+peas = "PEAS"
+for i in peas:
+    print(f"{i}!")
+print(f"Spells {peas}!")
