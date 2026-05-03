@@ -45,4 +45,5 @@ print(f"Spells {peas}!")
 print(f"...and don't you forget it (the {peas.lower()}).")
 
 for i in range(4):
-    print("I[m falling!")
+    print("I'm falling!")
+print("CRUMP!")
