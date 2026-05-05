@@ -49,4 +49,7 @@ for i in range(4):
 print("CRUMP!")
 
 for i in range(3):
-    print("YES!")
+    if i % 2 == 0:
+        print("YES!")
+    else:
+        print("NO!")
