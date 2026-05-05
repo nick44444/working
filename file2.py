@@ -47,3 +47,6 @@ print(f"...and don't you forget it (the {peas.lower()}).")
 for i in range(4):
     print("I'm falling!")
 print("CRUMP!")
+
+for i in range(3):
+    print("YES!")
