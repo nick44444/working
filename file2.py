@@ -53,3 +53,5 @@ for i in range(3):
         print("YES!")
     else:
         print("NO!")
+        
+print("Visage on currency")
