@@ -54,4 +54,12 @@ for i in range(3):
     else:
         print("NO!")
         
-print("Visage on currency")
+print("Visage on currency!")
+
+for i in range(6):
+    if i == 2:
+        print("A public network")
+    elif i % 2 == 1:
+        print("The greatest brand-destruction")
+    else:
+        print(i)
