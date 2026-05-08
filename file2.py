@@ -65,3 +65,4 @@ for i in range(6):
         print(i)
 
 print("To pin and to pop.")
+print("To steal and to stop.")
