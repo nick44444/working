@@ -66,3 +66,7 @@ for i in range(6):
 
 print("To pin and to pop.")
 print("To steal and to stop.")
+
+print("You time starts now.")
+for i in range(6):
+    print(i + 1)
