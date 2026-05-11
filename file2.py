@@ -69,4 +69,5 @@ print("To steal and to stop.")
 
 print("You time starts now.")
 for i in range(6):
-    print(i + 1)
+    print(f"{i + 1} x Aimee Lou Wood")
+print("ASTOP!!")
