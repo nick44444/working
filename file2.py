@@ -71,3 +71,4 @@ print("You time starts now.")
 for i in range(5):
     print(f"{i + 1} x Aimee Lou Wood")
 print("ASTOP!!")
+print("Continue!")
