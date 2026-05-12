@@ -72,3 +72,5 @@ for i in range(5):
     print(f"{i + 1} x Aimee Lou Wood")
 print("ASTOP!!")
 print("Continue!")
+for i in range(2):
+    print("Guessey goose!")
