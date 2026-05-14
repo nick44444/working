@@ -77,3 +77,5 @@ for i in range(2):
 print("The game that starts!")
 print("...And stops!")
 print("Unintentional")
+for i in range(2):
+    print(f"This is the {i + 1} weird tip!")
