@@ -3,4 +3,5 @@ print("How are you?")
 for i in range(2):
     print("Same old.")
 narrow = ["town",  "street", "people"]
-print(narrow)
+for i in narrow:
+    print(f"Narrow {i}.")
