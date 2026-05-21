@@ -5,3 +5,4 @@ for i in range(2):
 narrow = ["town",  "street", "people"]
 for i in narrow:
     print(f"Narrow {i}.")
+print("Tiny Liberal Party")
