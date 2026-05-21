@@ -5,4 +5,7 @@ for i in range(2):
 narrow = ["town",  "street", "people"]
 for i in narrow:
     print(f"Narrow {i}.")
-print("Tiny Liberal Party")
+tilp = "Tiny Liberal Party"
+print(tilp)
+for i in tilp.split(" "):
+    print(i[0] + i[-1] + "!")
