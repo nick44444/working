@@ -10,3 +10,5 @@ print(tilp)
 for i in tilp.split(" "):
     print(i[0] + i[-1] + "!")
 print("Mo-lec-u-lo!")
+for i in range(2):
+    print("The Molecular Man!")
