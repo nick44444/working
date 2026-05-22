@@ -9,3 +9,4 @@ tilp = "Tiny Liberal Party"
 print(tilp)
 for i in tilp.split(" "):
     print(i[0] + i[-1] + "!")
+print("Mo-lec-u-lo!")
