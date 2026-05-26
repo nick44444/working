@@ -14,3 +14,5 @@ for i in range(2):
     print("The Molecular Man!")
 bobbi = ("Bpobbi")
 print(bobbi)
+bobbi = bobbi.replace("p", "") + "?"
+print(bobbi)
