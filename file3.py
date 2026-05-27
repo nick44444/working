@@ -17,3 +17,6 @@ print(bobbi)
 bobbi = bobbi.replace("p", "") + "?"
 print(bobbi)
 print("Babbi Burns?")
+for i in range(2):
+    print("NO!")
+print("RABBI Burns.")
