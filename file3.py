@@ -21,3 +21,7 @@ for i in range(2):
     print("NO!")
 print("RABBI Burns.")
 refrain = "Hey hey, come out tonight."
+for i in range(2):
+    print(refrain)
+popscene = ["PO","PSC","EN","E"]
+print("".join(popscene) + "!")
