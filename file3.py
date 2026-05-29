@@ -25,3 +25,4 @@ for i in range(2):
     print(refrain)
 popscene = ["PO","PSC","EN","E"]
 print("".join(popscene) + "!")
+print("Grin!")
