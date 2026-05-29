@@ -25,4 +25,7 @@ for i in range(2):
     print(refrain)
 popscene = ["PO","PSC","EN","E"]
 print("".join(popscene) + "!")
-print("Grin!")
+print("Grin! I said:")
+toops = tilp.split(" ")
+for index, i in enumerate(toops):
+    print(toops[index - len(toops) + 1] + "!")
