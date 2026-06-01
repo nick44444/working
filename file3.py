@@ -29,3 +29,5 @@ print("Grin! I said:")
 toops = tilp.split(" ")
 for index, i in enumerate(toops):
     print(toops[index - len(toops) + 1] + "!")
+peet = "Bambu"
+print(f"{peet}")
