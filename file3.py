@@ -32,3 +32,4 @@ for index, i in enumerate(toops):
 peet = "Bambu"
 beet = "larina"
 print(f"{peet}{beet}!")
+print("Is it safe to build?")
