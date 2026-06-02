@@ -33,3 +33,12 @@ peet = "Bambu"
 beet = "larina"
 print(f"{peet}{beet}!")
 print("Is it safe to build?")
+reply = ""
+for i in range(3):
+    if i == 2:
+        reply += "!"
+    elif i == 1:
+        reply += "O"
+    elif i == 0:
+        reply += "N"
+print(reply)
