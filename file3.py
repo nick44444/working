@@ -44,3 +44,7 @@ for i in range(3):
 print(reply)
 poggo = "P"
 print(poggo)
+for i in "OGGY":
+    poggo += i
+poggo += "!"
+print(poggo)
