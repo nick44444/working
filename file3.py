@@ -42,3 +42,5 @@ for i in range(3):
     elif i == 0:
         reply += "N"
 print(reply)
+poggo = "P"
+print(poggo)
