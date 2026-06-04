@@ -49,4 +49,6 @@ for i in "OGGY":
 poggo += "!"
 print(poggo)
 supp = "H-zaki"
-print(supp)
+sk = "sucks!"
+a_lot = " ".join([supp.replace("-", "os-").replace("-", "hi"), sk])
+print(a_lot)
