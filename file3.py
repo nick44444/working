@@ -48,3 +48,5 @@ for i in "OGGY":
     poggo += i
 poggo += "!"
 print(poggo)
+supp = "H-zaki"
+print(supp)
