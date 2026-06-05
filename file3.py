@@ -52,3 +52,4 @@ supp = "H-zaki"
 sk = "sucks!"
 a_lot = " ".join([supp.replace("-", "os-").replace("-", "hi"), sk])
 print(a_lot)
+print("Good?")
