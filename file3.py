@@ -53,3 +53,5 @@ sk = "sucks!"
 a_lot = " ".join([supp.replace("-", "os-").replace("-", "hi"), sk])
 print(a_lot)
 print("Good?")
+for i in range(2):
+    print("Toggy!")
