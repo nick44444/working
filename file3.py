@@ -55,3 +55,4 @@ print(a_lot)
 print("Good?")
 for i in range(2):
     print("Toggy!")
+print("Dig"))
