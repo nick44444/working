@@ -56,4 +56,5 @@ print("Good?")
 for i in range(2):
     print("Toggy!")
 print("Dig!")
+print("and")
 print("Dug!")
