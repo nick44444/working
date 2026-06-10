@@ -61,3 +61,5 @@ print("Dug!")
 drib = "What "
 hits = "Hits?!"
 print(drib + hits)
+vowels = ["a","E","i","o","u"]
+print(vowels)
