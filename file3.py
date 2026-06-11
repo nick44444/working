@@ -67,4 +67,4 @@ new_word = "dr" + vowels[-2] + "gh" + vowels[1] + "d" + vowels[0] + "!"
 new_word = "".join(new_word.title())
 print(new_word)
 guessy = "Guessy"
-print(guessy)
+print(guessy[:-1] + " the spoon?")
