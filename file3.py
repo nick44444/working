@@ -68,4 +68,7 @@ new_word = "".join(new_word.title())
 print(new_word)
 guessy = "Guessy"
 print(guessy[:-1] + " the spoon?")
-print("Seating into it.")
+print("Sweating into it.")
+sweat = "No sweat!"
+for index, i in enumerate(sweat):
+    print(sweat[index:index+2], sweat [index+1:index+3])
