@@ -72,3 +72,4 @@ print("Sweating into it.")
 sweat = "No sweat!"
 for index, i in enumerate(sweat):
     print(sweat[index:index+2], sweat [index+1:index+3])
+print("Shipo?")
