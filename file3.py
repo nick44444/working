@@ -78,3 +78,6 @@ for i in range(1):
 claube = "Cl"
 the_rest = ["a", "u", "b", "e"]
 print(claube)
+for i in range(len(the_rest)):
+    claube += the_rest[i]
+print(claube)
