@@ -75,3 +75,6 @@ for index, i in enumerate(sweat):
 print("Shipo?")
 for i in range(1):
     print("No. Just Ship.")
+claube = "Cl"
+the_rest = ["a", "u", "b", "e"]
+print(claube)
