@@ -83,3 +83,5 @@ for i in range(len(the_rest)):
 print(claube)
 dauph = "Dauphi"
 print(dauph)
+dauph += "noise? No, Dolphin!"
+print(dauph)
