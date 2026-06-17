@@ -81,3 +81,5 @@ print(claube)
 for i in range(len(the_rest)):
     claube += the_rest[i]
 print(claube)
+dauph = "Dauphi"
+print(dauph)
