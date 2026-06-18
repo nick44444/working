@@ -86,4 +86,6 @@ print(dauph)
 dauph += "noise? No, Dolphin!"
 print(dauph)
 pilt = "pilt"
+down = "down"
+pilt = ("s" + pilt + down).title()
 print(pilt)
