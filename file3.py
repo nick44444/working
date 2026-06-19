@@ -89,5 +89,5 @@ pilt = "pilt"
 down = "down"
 pilt = ("s" + pilt + down).title()
 print(pilt)
-newc = "Newcombe"
-print(newc + " Road?")
+newcm = "Newcombe"
+print(newcm + " Road?")
