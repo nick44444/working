@@ -91,3 +91,5 @@ pilt = ("s" + pilt + down).title()
 print(pilt)
 newcm = "Newcombe"
 print(newcm + " Road?")
+objection = ["No, ", " NO!"]
+print(objection[0] + newcm + objection[1])
