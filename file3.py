@@ -94,3 +94,6 @@ print(newcm + " Road?")
 objection = ["No, ", " NO!"]
 print(objection[0] + newcm + objection[1])
 print("Skeptical Civil...what?")
+scs = ["S","C"]
+servo = "Servants. " + "".join(scs) + scs[0] + " for short."
+print(servo)
