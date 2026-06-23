@@ -99,3 +99,5 @@ servo = "Servants. " + "".join(scs) + scs[0] + " for short."
 print(servo)
 blanch = "Blanch"
 print(blanch)
+blench = "o"
+print(blanch + blench)
