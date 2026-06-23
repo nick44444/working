@@ -97,3 +97,5 @@ print("Skeptical Civil...what?")
 scs = ["S","C"]
 servo = "Servants. " + "".join(scs) + scs[0] + " for short."
 print(servo)
+blanch = "Blanch"
+print(blanch)
