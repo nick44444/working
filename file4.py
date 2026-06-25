@@ -6,4 +6,9 @@ for i in range(len(rary)):
 lib += "!"
 print(lib)
 printo = "Message"
-print(printo)
+print(printo + ":")
+for i in range(3):
+    if i == 1:
+        print("FOILED!")
+    else:
+        print("FAILED!")
