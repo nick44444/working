@@ -18,3 +18,5 @@ tob += ", so Bobby."
 print(tob)
 gant = "Goose"
 print(gant)
+for index, i in enumerate(gant):
+    print(f"{gant} #{index + 1}!")
