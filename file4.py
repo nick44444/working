@@ -20,3 +20,4 @@ gant = "Goose"
 print(gant)
 for index, i in enumerate(gant):
     print(f"{gant} #{index + 1}!")
+fors = "Forsa!"
