@@ -24,3 +24,5 @@ fors = "Forsa!"
 print(fors)
 fors = fors.replace("r", "o")
 print("No! " + fors)
+belief = "Moral uplift?"
+print(belief)
