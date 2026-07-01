@@ -25,4 +25,6 @@ print(fors)
 fors = fors.replace("r", "o")
 print("No! " + fors)
 belief = "Moral uplift?"
-print(belief)
+print(belief + " No:")
+for i in belief.replace("?", "").split(" "):
+    print(i.upper() + "!")
