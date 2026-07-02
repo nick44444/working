@@ -28,3 +28,5 @@ belief = "Moral uplift?"
 print(belief + " No:")
 for i in belief.replace("?", "").split(" "):
     print(i.upper() + "!")
+sir = "Sir"
+print(f"Hello {gant}!")
