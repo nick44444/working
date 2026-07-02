@@ -30,3 +30,5 @@ for i in belief.replace("?", "").split(" "):
     print(i.upper() + "!")
 sir = "Sir"
 print(f"Hello {gant}!")
+new_gant= "That's " + sir.upper() + f" {gant} to you!"
+print(new_gant)
