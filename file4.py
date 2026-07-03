@@ -33,3 +33,6 @@ print(f"Hello {gant}!")
 new_gant= "That's " + sir.upper() + f" {gant} to you!"
 print(new_gant)
 office = "Time for work!"
+for i in range(4):
+    office += " WORK!"
+print(office)
