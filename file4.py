@@ -32,3 +32,4 @@ sir = "Sir"
 print(f"Hello {gant}!")
 new_gant= "That's " + sir.upper() + f" {gant} to you!"
 print(new_gant)
+office = "Time for work!"
