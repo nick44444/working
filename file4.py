@@ -38,3 +38,7 @@ for i in range(4):
 print(office)
 prac = "Practise!"
 print(prac)
+endo = prac[-1]
+prac = prac[:-1].replace("s", "c")
+perfo_sent = prac + " makes perfect" + endo
+print(perfo_sent)
