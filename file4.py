@@ -36,3 +36,5 @@ office = "Time for work!"
 for i in range(4):
     office += " WORK!"
 print(office)
+prac = "Practise!"
+print(prac)
