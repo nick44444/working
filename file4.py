@@ -43,4 +43,6 @@ prac = prac[:-1].replace("s", "c")
 perfo_sent = prac + " makes perfect" + endo
 print(perfo_sent)
 almanac = "It's my Autumn Almanac."
+for i in range(3):
+    print("YES!")
 print(almanac)
