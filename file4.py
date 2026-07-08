@@ -47,4 +47,5 @@ for i in range(3):
     print("YES!")
 print(almanac)
 hoy = "hoy"
+hoy = hoy.title() + "nors"
 print(hoy)
