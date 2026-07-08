@@ -46,3 +46,5 @@ almanac = "It's my Autumn Almanac."
 for i in range(3):
     print("YES!")
 print(almanac)
+hoy = "hoy"
+print(hoy)
