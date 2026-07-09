@@ -49,3 +49,5 @@ print(almanac)
 hoy = "hoy"
 hoy = hoy.title() + "nors"
 print(hoy)
+count = "Count"
+print(count)
