@@ -50,4 +50,8 @@ hoy = "hoy"
 hoy = hoy.title() + "nors"
 print(hoy)
 count = "Count"
-print(count)
+face = ["e", "c", "a", "f", "n", "i", "b"]
+face_comp = ""
+for i in range(len(face)):
+    face_comp += face[(i + 1) * -1]
+print(count + " " + face_comp.title() + "!")
