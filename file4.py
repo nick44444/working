@@ -56,4 +56,6 @@ for i in range(len(face)):
     face_comp += face[(i + 1) * -1]
 print(count + " " + face_comp.title() + " must win!")
 middo = "Mid"
-print(middo)
+culd = "Mudi"
+middo = (middo + " " + culd).replace("M", "K")
+print(middo + "?")
