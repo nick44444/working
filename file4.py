@@ -59,3 +59,5 @@ middo = "Mid"
 culd = "Mudi"
 middo = (middo + " " + culd).replace("M", "K")
 print(middo + "?")
+gasso = "bye"
+print(gasso)
