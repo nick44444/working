@@ -60,4 +60,6 @@ culd = "Mudi"
 middo = (middo + " " + culd).replace("M", "K")
 print(middo + "?")
 gasso = "bye"
-print(gasso)
+mike = ["m", "i", "c", "h", "a", "e", "l"]
+gasso2 = gasso.title() + " " + gasso + " " + "".join(mike).title() + "!"
+print(gasso2)
