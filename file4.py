@@ -66,3 +66,6 @@ print(gasso2)
 tolby = "Tol"
 bius = ["b", "I", "U", "S"]
 print(tolby, bius)
+for i in range(len(bius)):
+    tolby += bius[i].lower()
+print(tolby + "!")
