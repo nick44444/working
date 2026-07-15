@@ -63,3 +63,6 @@ gasso = "bye"
 mike = ["m", "i", "c", "h", "a", "e", "l"]
 gasso2 = gasso.title() + " " + gasso + " " + "".join(mike).title() + "!"
 print(gasso2)
+tolby = "Tol"
+bius = ["b", "I", "U", "S"]
+print(tolby, bius)
