@@ -69,3 +69,4 @@ print(tolby, bius)
 for i in range(len(bius)):
     tolby += bius[i].lower()
 print(tolby + "!")
+print("Token check!")
