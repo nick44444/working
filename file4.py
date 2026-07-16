@@ -71,4 +71,7 @@ for i in range(len(bius)):
 print(tolby + "!")
 print("Token check!")
 bale = "Bale"
-print(bale)
+ful = ["f", "u", "p"]
+for i in ful:
+    bale += i
+print(bale.replace("p", "l") + ".")
