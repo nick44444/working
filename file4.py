@@ -76,4 +76,9 @@ for i in ful:
     bale += i
 print(bale.replace("p", "l") + ".")
 great = "Great"
-print(great)
+great += " "
+gus = "gusso"
+for index, i in enumerate(gus):
+    if index < len(gus) - 2:
+        great += i
+print(great.replace("s", "y!"))
