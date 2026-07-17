@@ -75,3 +75,5 @@ ful = ["f", "u", "p"]
 for i in ful:
     bale += i
 print(bale.replace("p", "l") + ".")
+great = "Great"
+print(great)
