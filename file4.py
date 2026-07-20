@@ -82,5 +82,5 @@ for index, i in enumerate(gus):
     if index < len(gus) - 2:
         great += i
 print(great.replace("s", "y!"))
-new_pm = ["A", "n", "d", "y"]
+new_pm = ["A", "n", "d", "y", " "]
 print(new_pm)
