@@ -86,4 +86,5 @@ new_pm = ["A", "n", "d", "y", " "]
 new_pm = "".join(new_pm) + "Burnham"
 print(new_pm)
 tom = "Tommy"
-print(tom)
+more = ["Robinson", "is", "an", "idiot"]
+print(tom + " " + " ".join(more) + ".")
