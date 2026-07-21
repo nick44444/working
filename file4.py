@@ -85,3 +85,5 @@ print(great.replace("s", "y!"))
 new_pm = ["A", "n", "d", "y", " "]
 new_pm = "".join(new_pm) + "Burnham"
 print(new_pm)
+tom = "Tommy"
+print(tom)
