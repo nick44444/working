@@ -88,3 +88,4 @@ print(new_pm)
 tom = "Tommy"
 more = ["Robinson", "is", "an", "idiot"]
 print(tom + " " + " ".join(more) + ".")
+boothi = "John Wilkes Booth"
