@@ -89,3 +89,7 @@ tom = "Tommy"
 more = ["Robinson", "is", "an", "idiot"]
 print(tom + " " + " ".join(more) + ".")
 boothi = "John Wilkes Booth"
+print(boothi)
+boothi2 = boothi.split(" ")
+boothi2 = [i[0] for i in boothi2]
+print("".join(boothi2))
