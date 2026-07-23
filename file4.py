@@ -94,5 +94,5 @@ boothi2 = boothi.split(" ")
 boothi2 = [i[0] for i in boothi2]
 print("".join(boothi2))
 peak = "Peak"
-peak += " Practise"
+peak += " Practice"
 print(peak.replace("Peak", "Nude"))
