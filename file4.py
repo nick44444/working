@@ -96,3 +96,5 @@ print("".join(boothi2))
 peak = "Peak"
 peak += " Practice"
 print(peak.replace("Peak", "Nude"))
+ench = "Bl"
+print(ench)
