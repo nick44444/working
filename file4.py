@@ -97,4 +97,6 @@ peak = "Peak"
 peak += " Practice"
 print(peak.replace("Peak", "Nude"))
 ench = "Bl"
+blee = ["E", "N", "C", "H"]
+ench = ench + "".join(blee).lower()
 print(ench)
