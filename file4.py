@@ -102,3 +102,5 @@ ench = "Bl"
 blee = ["E", "N", "C", "H"]
 ench = ench + "".join(blee).lower()
 print(ench)
+ven = "Venture"
+print(ven)
