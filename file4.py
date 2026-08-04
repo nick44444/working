@@ -105,3 +105,5 @@ print(ench)
 ven = "Venture"
 ven = ven + " capitalists!"
 print(ven)
+klf = ["K","L","F"]
+print(klf)
