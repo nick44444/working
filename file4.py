@@ -106,4 +106,5 @@ ven = "Venture"
 ven = ven + " capitalists!"
 print(ven)
 klf = ["K","L","F"]
-print(klf)
+start = "Ruddy hell, it's The "
+print(start + "".join(klf) + "!")
