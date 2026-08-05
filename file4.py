@@ -108,3 +108,5 @@ print(ven)
 klf = ["K","L","F"]
 start = "Ruddy hell, it's The "
 print(start + "".join(klf) + "!")
+bifo = ["B", "I", "F", "O"]
+print(bifo)
