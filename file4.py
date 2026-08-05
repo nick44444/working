@@ -109,4 +109,5 @@ klf = ["K","L","F"]
 start = "Ruddy hell, it's The "
 print(start + "".join(klf) + "!")
 bifo = ["B", "I", "F", "O"]
-print(bifo)
+bifo2 = "".join(bifo[:3]) + bifo[2] + bifo[-1]
+print(bifo2 + "!")
