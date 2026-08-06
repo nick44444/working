@@ -111,3 +111,5 @@ print(start + "".join(klf) + "!")
 bifo = ["B", "I", "F", "O"]
 bifo2 = "".join(bifo[:3]) + bifo[2] + bifo[-1]
 print(bifo2 + "!")
+bbc = ["B", "C"]
+print(bbc)
