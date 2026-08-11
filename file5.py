@@ -6,4 +6,7 @@ att = ["A","T"]
 att2 = att[0] +  "".join(att)
 print(att2)
 booh = ["Heck", "of", "out", "Bat"]
-print(booh)
+heb = ""
+for i in range(len(booh)):
+    heb += booh[(i + 1) * -1] + " "
+print(heb[:-1] + "!")
