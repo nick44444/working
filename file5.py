@@ -11,4 +11,5 @@ for i in range(len(booh)):
     heb += booh[(i + 1) * -1] + " "
 print(heb[:-1] + "!")
 tobbu = ["g", "y", "t", "u", "s"]
-print(tobbu)
+tobbu2 = "".join([tobbu[0], tobbu[3], tobbu[-1], tobbu[2], tobbu[1]]).title()
+print(tobbu2 + "!")
